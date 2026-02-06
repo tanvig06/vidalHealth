@@ -1,0 +1,4 @@
+com\vidalhealthtest\webhook\dto\SolutionRequest.class
+com\vidalhealthtest\webhook\dto\WebhookRequest.class
+com\vidalhealthtest\webhook\WebhookApplication.class
+com\vidalhealthtest\webhook\service\WebhookService.class
